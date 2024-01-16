@@ -1,22 +1,14 @@
 ### Persistence in Android
 
-# Exercise 1
+# Exercise 1: Solution
 
-Welcome to the first exercise. This exercise is about the EncryptedSharedPreferences.
+This is our solution for the first exercise. You can use it as a reference and compare it to your own solution.
 
-## Prerequisites
+## What code was originally provided?
 
-You should have already set up this project in the `setup` branch.
+The provided code contained a simple app with a single view of a colored background. By tapping anywhere on the screen, the background color changed to a random color.
 
-If you have already set up the project, please pull the `assignment` branch to get the base code for this exercise.
-
-If you have not, please pull the `assignment` branch directly. For troubleshooting please refer to the ReadMe in the `setup` branch.
-
-## Provided Code
-
-The provided code contains a simple app with a single view of a colored background. By tapping anywhere on the screen, the background color will change to a random color.
-
-## Assignment
+## What was the assignment?
 
 - Save the current color in the _Shared Preferences_.
 - The color should be stored encrypted. Use _Encrypted Shared Preferences_ for this.
@@ -29,9 +21,3 @@ The provided code contains a simple app with a single view of a colored backgrou
 | Saving **and** loading the color | 0.5    |
 | Storing the color encrypted      | 0.5    |
 | _Total_                          | 1.0    |
-
-## Submission
-
-Submit your solution by zipping the project folder and uploading it under _"Aufgabe 9 Persistenz & Datenbankanbindung"_ in the Ilias mailbox as _"ex1.vorname.nachname.zip"_
-
-The assignment is due on **Thursday, 16.01.2024 at 15:00**. Later submissions will not be graded and receive 0 points.
